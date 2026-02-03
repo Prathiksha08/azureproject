@@ -1,0 +1,9 @@
+{
+	"name": "factoryprathazurefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f351a6a-2838-4338-83b4-caf6b3df62a6",
+		"tenantId": "1f44ae86-32f7-4f31-b1f9-95d3cd6265ea"
+	}
+}
